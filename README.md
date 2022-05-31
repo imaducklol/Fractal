@@ -1,3 +1,3 @@
 # Video
 
-![](video.mkv)
+![](video.gif)
